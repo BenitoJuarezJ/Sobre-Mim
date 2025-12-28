@@ -22,7 +22,7 @@ Apaixonado por transformar ideias em soluções digitais, tenho experiência em 
 
 ## 📌 Projetos em Destaque
 
-- [QuickMed]() → Sistema inteligente de gerenciamento de filas hospitalares em **C**, apresentado na Mostra Tecnológica do Centro Universitário Braz Cubas.  
+- QuickMed → Sistema inteligente de gerenciamento de filas hospitalares em **C**, apresentado na Mostra Tecnológica do Centro Universitário Braz Cubas.  
 - Mogi Saúde → Parceria entre universidade e Prefeitura de Mogi das Cruzes para desenvolvimento de sistema para a Secretaria de Saúde.  
 - Participações vonluntárias em eventos como **Open Data Day 2024** e **HackMogi** com atuação em inovação e impacto social.  
 
